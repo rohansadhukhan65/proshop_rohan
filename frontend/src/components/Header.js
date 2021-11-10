@@ -22,7 +22,7 @@ const Header = () => {
         <Container>
 
           <LinkContainer to='/'>
-            <Navbar.Brand>Tech Shop <i className="fas fa-microchip" /> </Navbar.Brand>
+            <Navbar.Brand>Mindfulness <i class="fas fa-brain"/> </Navbar.Brand>
           </LinkContainer>
 
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
